@@ -22,6 +22,7 @@ Project Pages
 - `Main Website <http://www.blender.org>`__
 - `Reference Manual <https://docs.blender.org/manual/en/latest/index.html>`__
 - `User Community <https://www.blender.org/community/>`__
+- `Steam <https://store.steampowered.com/app/365670/Blender/>`__
 
 Development
 -----------
